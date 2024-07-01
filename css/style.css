@@ -51,7 +51,7 @@ h1 {
   font-size: var(--step-2);
   font-weight: var(--weight-2);
   color: var(--Very-Dark-Blue);
-  max-inline-size: 30ch;
+  max-inline-size: 34ch;
   margin-block-start: var(--space-2xl-3xl);
 }
 
