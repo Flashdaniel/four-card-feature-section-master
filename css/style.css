@@ -57,6 +57,7 @@ h1 {
 
 .weightless {
   font-weight: normal;
+  color: var(--Grayish-Blue);
 }
 
 h2 {
