@@ -94,7 +94,7 @@ p[data-length="74ch"] {
   border-top: 4px solid;
   border-radius: 10px;
   box-shadow: 0 15px 15px 0px var(--Grayish-Blue);
-  min-block-size: clamp(13rem, 12rem + 5vw, 18rem);
+  min-block-size: clamp(13rem, 12rem + 7vw, 19rem);
 }
 
 .card-cyan {
