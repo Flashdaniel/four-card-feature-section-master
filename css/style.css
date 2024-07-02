@@ -55,9 +55,8 @@ h1 {
   margin-block-start: var(--space-2xl-3xl);
 }
 
-.weightless {
-  font-weight: normal;
-  color: var(--Grayish-Blue);
+.weight-200 {
+  font-weight: var(--weight-0);
 }
 
 h2 {
@@ -71,7 +70,7 @@ p {
 }
 
 p[data-length="74ch"] {
-  max-inline-size: 74ch;
+  max-inline-size: 77ch;
 }
 
 .region {
@@ -94,7 +93,7 @@ p[data-length="74ch"] {
   padding: var(--space-s-m);
   border-top: 4px solid;
   border-radius: 10px;
-  box-shadow: 0 15px 15px 0px var(--Grayish-Blue);
+  box-shadow: 0px 14px 30px -11px var(--Grayish-Blue);
   min-block-size: clamp(13rem, 12rem + 7vw, 19rem);
 }
 
