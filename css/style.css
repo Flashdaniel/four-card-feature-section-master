@@ -19,14 +19,14 @@
   --space-l-3xl: clamp(1.875rem, -0.0815rem + 9.7826vi, 7.5rem);
   --space-xl-2xl: clamp(2.8125rem, 2.0516rem + 3.8043vi, 5rem);
   --space-2xl-3xl: clamp(3.75rem, 2.4457rem + 6.5217vi, 7.5rem);
-  --font: Poppins;
+  --font: "Poppins";
   --weight-0: 200;
   --weight-1: 400;
   --weight-2: 600;
 }
 
 body {
-  font-family: var(--font, serif);
+  font-family: var(--font, sans-serif);
   font-size: var(--step-0);
   font-weight: var(--weight-1);
   color: var(--Grayish-Blue);
